@@ -1,1 +1,1 @@
-console.error("No se puede cargar el mensaje");
+console.error("No se puede cargar el mensaje, sin console");
